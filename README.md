@@ -1,6 +1,7 @@
 # shopping_app 
 
-A new Flutter project.
+Flutter e-commerce/shopping app ui with dummy data.
+An E-commerce cross-platform mobile app using Flutter. This application is compatible with both Android and iOS
 
 ![Simulator Screen Shot - iPhone 13 - 2022-11-17 at 16 22 11](https://user-images.githubusercontent.com/34004883/202429424-125583d3-9ccf-44a0-b8a8-a99679e87167.png)
 
